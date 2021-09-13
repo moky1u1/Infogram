@@ -11,9 +11,12 @@
     <color name="colorPrimaryDark">#512DA8</color>
     <color name="colorAccent">#FF5252</color>
     
-    <color name="editText_textColorHint">#FFFF</color>
-    <color name="editText_textColorPrimary">#FFFF</color>
-    <color name="editText_colorControlNormal">#FFFF</color>
-    <color name="edicText_colorControlActivated">#FFFF</color>
-    <color name="button_TextColor">#FFFF</color>
+    <color name="editText_textColorHint">#FFFFFF</color>
+    <color name="editText_textColorPrimary">#FFFFFF</color>
+    <color name="editText_colorControlNormal">#FFFFFF</color>
+    <color name="edicText_colorControlActivated">#FFFFFF</color>
+    <color name="button_TextColor">#FFFFFF</color>
+
+
+    <color name="textView_textColor">#FFFFFF</color>
 </resources>

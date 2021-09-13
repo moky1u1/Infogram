@@ -3,4 +3,6 @@
     <dimen name="editText_textsize">20sp</dimen>
     <dimen name="login_horizontalMargin">40dp</dimen>
     <dimen name="login_marginTop">20dp</dimen>
+    <dimen name="imageView_layoutHeigth">150dp</dimen>
+    <dimen name="textView_textSize">18sp</dimen>
 </resources>
