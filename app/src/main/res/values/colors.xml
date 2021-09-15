@@ -15,4 +15,6 @@
     <color name="editText_black">#000000</color>
 
     <color name="textView_textColor">#FFFFFF</color>
+    <color name="background_cardview">#33000000</color>
+    <color name="textColor_white">#FFFFFF</color>
 </resources>

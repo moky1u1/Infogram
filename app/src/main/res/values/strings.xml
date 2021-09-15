@@ -11,4 +11,8 @@
     <string name="confirme_contrasenia">Confirme contraseña</string>
     <string name="button_text_create_account">Únete</string>
     <string name="title_crear_cuenta">Crear Cuenta</string>
+    <string name="monica_galindo_cardview">Monica Galindo</string>
+    <string name="dias_cardview">" 4 dias"</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
 </resources>
