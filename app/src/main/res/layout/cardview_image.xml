@@ -22,7 +22,7 @@
             android:orientation="vertical"
             android:layout_gravity="bottom"
             android:background="@color/background_cardview"
-            android:padding="@dimen/padding_cardviwe">
+            android:padding="@dimen/padding_cardview">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -58,7 +58,7 @@
                 <CheckBox
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:button="@drawable/checkbox_selector" />
+                    android:button="@drawable/checkbox_selector"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
