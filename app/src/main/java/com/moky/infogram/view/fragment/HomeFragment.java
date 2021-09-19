@@ -102,16 +102,16 @@ public class HomeFragment extends Fragment {
     public ArrayList<Image> buildImages(){
         ArrayList<Image> images = new ArrayList<>();
 
-        images.add(new Image("","Monica Galindo", "2 Dias", "1 me gusta"));
-        images.add(new Image("","Icela Creyo", "4 Dias", "25 me gusta"));
-        images.add(new Image("","Zoyla Vaca", "3 Dias", "10 me gusta"));
-        images.add(new Image("","Elvis Quito", "2 Dias", "5 me gusta"));
-        images.add(new Image("","Juan Perez", "2 Dias", "2 me gusta"));
-        images.add(new Image("","Facundo Rojas", "5 Dias", "11 me gusta"));
-        images.add(new Image("","Alvaro Camargo", "7 Dias", "9 me gusta"));
-        images.add(new Image("","Cristian Tapia", "9 Dias", "15 me gusta"));
-        images.add(new Image("","Lorena Nina", "3 Dias", "14 me gusta"));
-        images.add(new Image("","Esteban Quito", "2 Dias", "20 me gusta"));
+        images.add(new Image("https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/86136164057543.5acbb22ca2b6f.jpg","Monica Galindo", "2 Dias", "1 me gusta"));
+        images.add(new Image("https://www.lostiempos.com/sites/default/files/styles/noticia_detalle/public/media_imagen/2018/1/13/1-_roma_2-_hector_arnez.jpg?itok=UCQEK8Mi","Icela Creyo", "4 Dias", "25 me gusta"));
+        images.add(new Image("https://tipsparatuviaje.com/wp-content/uploads/2019/07/salar-de-uyuni.jpg","Zoyla Vaca", "3 Dias", "10 me gusta"));
+        images.add(new Image("https://boliviamia.net/Images/Tourpics/atop-uyuni-07.jpg","Elvis Quito", "2 Dias", "5 me gusta"));
+        images.add(new Image("https://content.skyscnr.com/m/4c09ac3f3118423c/original/GettyImages-490287388.jpg?resize=1800px:1800px&quality=100","Juan Perez", "2 Dias", "2 me gusta"));
+        images.add(new Image("https://queverenz.com/wp-content/uploads/2016/11/Que-cosas-ver-hacer-en-bolivia-lugares-sitios-puntos-destinos-turismo-dias.jpg","Facundo Rojas", "5 Dias", "11 me gusta"));
+        images.add(new Image("https://tipsparatuviaje.com/wp-content/uploads/2019/07/el-camino-de-la-muerte.jpg","Alvaro Camargo", "7 Dias", "9 me gusta"));
+        images.add(new Image("https://www.la-razon.com/wp-content/uploads/2020/12/01/10/ybs42dy9o6a1hqyfwu8ibh.jpg","Cristian Tapia", "9 Dias", "15 me gusta"));
+        images.add(new Image("https://marketingsimulator.net/asaucedo/wp-content/uploads/sites/187/2016/07/valledelaluna-1038x576.jpg","Lorena Nina", "3 Dias", "14 me gusta"));
+        images.add(new Image("https://static.eldeber.com.bo//Files/Original/sites/eldeber/img/2018/01/15/cho_.jpg","Esteban Quito", "2 Dias", "20 me gusta"));
 
 
 
