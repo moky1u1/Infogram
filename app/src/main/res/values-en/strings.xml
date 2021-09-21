@@ -20,4 +20,9 @@
     <string name="home_item">Home</string>
     <string name="yo_item">Yo</string>
     <string name="title_home_fragment">Home</string>
+    <string name="text_title_image_detail">\"En festivales por el mundo\"</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="text_megusta_image_detail">me gusta</string>
+    <string name="text_cantidad_megusta_image_detail">10</string>
+    <string name="text_content_image_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
 </resources>
