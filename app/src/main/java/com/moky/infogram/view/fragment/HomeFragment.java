@@ -114,10 +114,6 @@ public class HomeFragment extends Fragment {
         images.add(new Image("https://static.eldeber.com.bo//Files/Original/sites/eldeber/img/2018/01/15/cho_.jpg","Esteban Quito", "2 Dias", "20 me gusta"));
 
 
-
-
-
-
         return images;
     }
 }

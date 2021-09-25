@@ -24,4 +24,19 @@
     <dimen name="textSize_title_image_detail">16sp</dimen>
     <dimen name="paddin_top_title_image_detail">30dp</dimen>
     <dimen name="marginEnd_fab_image_detail">30dp</dimen>
+    <dimen name="paddingTop_linearlayout_profile">200dp</dimen>
+    <dimen name="paddingBottom_linearlayout_profile">20dp</dimen>
+    <dimen name="textSize_username_profile">30dp</dimen>
+    <dimen name="size_circle_image_porfile">150dp</dimen>
+    <dimen name="marginTop_circleImage_profile">40dp</dimen>
+    <dimen name="elevation_circle_image_profile">10dp</dimen>
+    <dimen name="depend_targery_circle_image_profile">-100dp</dimen>
+    <dimen name="target_circle_image_profile">10dp</dimen>
+    <dimen name="targetSize_circle_image_profile">40dp</dimen>
+    <dimen name="textSize_username_appbar_profile">18sp</dimen>
+    <dimen name="elevation_username_appbar_profile">10dp</dimen>
+    <dimen name="marginLeft_username_appbar_profile">70dp</dimen>
+    <dimen name="marginTop_username_appbar_profile">-100dp</dimen>
+    <dimen name="depend_targery_username_appbar_profile">-250dp</dimen>
+    <dimen name="target_username_appbar_profile">45dp</dimen>
 </resources>
